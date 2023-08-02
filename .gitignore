@@ -1,0 +1,24 @@
+# This is a sample .gitignore file for a C++ project
+
+# ignore all .exe files
+*.exe
+
+# ignore all .txt files
+*.txt 
+
+# ignore all .o files
+*.o
+
+# ignore all .a files
+*.a
+
+# ignore all .so files
+*.so
+
+# Ignore IDE/Editor directories
+.vscode/
+.idea/
+
+# Ignore build directories
+build/
+dist/

@@ -1,0 +1,1 @@
+int highest = nums[nums.size() - 1];
